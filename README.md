@@ -1,2 +1,2 @@
 # delcomcli
-Golang CLI for controlling a delcom light
+A basic CLI written in Go for controlling a delcom light (tested against a Delcom 904000).  This is simply to save time for people who just want to control it and don't want to roll their own CLI based on the golight library for interacting with it programmatically. 
